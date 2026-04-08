@@ -1,5 +1,4 @@
-# Marketing Funnel Analysis for Website Traffic
-# 2024-2025 N&N Ecommerce Sales Trend Analysis
+# Q1 2026 Marketing Funnel Analysis for Website Traffic
 
 > For full analysis, visit my [Portfolio](https://dolomite-crabapple-a28.notion.site/2024-2025-N-N-Ecommerce-Sales-Trend-Analysis-30b529d3f37d804ead3ff0d96012e3aa)
 
@@ -35,5 +34,7 @@ Based on the Q1 2026 website purchase funnel analysis across funnel performance,
 
 ## Dashboard
 The following dashboard allows stakeholders to explore the funnel by traffic source, region, user type, and device.
-![dashboard_screen]()
+
+![dashboard_screen](tableau/dashboard_screen.png)
+
 > View dashboard in Tableau Public: [Website Purchase Funnel - Drop-Off Analysis](https://public.tableau.com/views/WebsitePurchaseFunnel-Drop-OffAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
